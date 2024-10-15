@@ -28,14 +28,6 @@ This project explores Electric Vehicle (EV) data to provide insights into the tr
 - NumPy
 - Matplotlib
 
-## Installation
-To run this project, clone the repository and install the necessary dependencies:
-
-```bash
-git clone [Your GitHub Repository Link]
-cd electric-vehicle-data-analysis
-pip install -r requirements.txt
-```
 
 ## Conclusion
 This project highlights the growing trend of electric vehicles and provides insights into their distribution and popularity across different states and manufacturers.
